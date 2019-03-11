@@ -7,7 +7,9 @@
 
 ---
 
-<a href="https://www.amazon.co.jp/gp/product/B00JFLJ13W/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=nicecomics-22&linkId=65721be1169c521df0f0163bc10d2929&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JFLJ13W&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=nicecomics-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=nicecomics-22&language=ja_JP&l=li3&o=9&a=B00JFLJ13W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+## 参考文献
+
+強いチームはオフィスを捨てる
 
 https://amzn.to/2SSWOFS
 
